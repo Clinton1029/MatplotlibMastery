@@ -12,3 +12,9 @@ This project is a **comprehensive Jupyter Notebook** that covers essential **Mat
 - **Jupyter Notebook** 📖
 
 ## 📂 Project Structure
+
+MatplotlibMastery/ │── Matplotlib_Guide.ipynb # Jupyter Notebook with all visualizations │── README.md # Project documentation └── images/ # Contains example output images
+
+markdown
+Copy
+Edit
