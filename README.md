@@ -11,10 +11,15 @@ This project is a **comprehensive Jupyter Notebook** that covers essential **Mat
 - **Seaborn** 🎨
 - **Jupyter Notebook** 📖
 
-## 📂 Project Structure
+## 📈 Topics Covered
+1. **Basic Line Plot** - Simple line chart with labels and grid.
+2. **Bar Chart** - Representing categorical data.
+3. **Scatter Plot** - Visualizing relationships between two variables.
+4. **Histogram** - Distribution of numerical data.
+5. **Pie Chart** - Proportional data representation.
+6. **Boxplot** - Visualizing summary statistics.
+7. **Subplots** - Arranging multiple plots in one figure.
+8. **3D Plot** - Advanced surface plots using `mpl_toolkits.mplot3d`.
 
-MatplotlibMastery/ │── Matplotlib_Guide.ipynb # Jupyter Notebook with all visualizations │── README.md # Project documentation └── images/ # Contains example output images
 
-markdown
-Copy
-Edit
+
